@@ -1,2 +1,3 @@
 console.log('config.js');
-console.log('version 1');
+console.log('version 2 update 2');
+console.log('love thyself')
